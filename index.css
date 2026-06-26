@@ -879,17 +879,17 @@ h1, h2, h3{
     justify-content: center;
 
     background: black;
-    padding: 10px 5px;
+    padding: 8px 2px;
      flex-wrap: nowrap;
     overflow: hidden;
-     gap: 4px; 
+     gap: 2px; 
 }
  
 
 .navbar a{
     display: inline-block;
     white-space: nowrap;
-     padding: 3px 5px;
+     padding: 3px 3px;
     font-size: 11px;
     
 }
