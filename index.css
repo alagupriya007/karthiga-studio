@@ -882,14 +882,14 @@ h1, h2, h3{
     padding: 8px 2px;
      flex-wrap: nowrap;
     overflow: hidden;
-     gap: 2px; 
+     gap: 1px; 
 }
  
 
 .navbar a{
     display: inline-block;
     white-space: nowrap;
-     padding: 3px 3px;
+     padding: 2px 3px;
     font-size: 11px;
     
 }
