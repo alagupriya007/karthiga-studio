@@ -889,9 +889,9 @@ h1, h2, h3{
 .navbar a{
     display: inline-block;
     white-space: nowrap;
-     padding: 2px 4px;
+     padding: 2px 3px;
     font-size: 11px;
-     margin: 0 4px;
+   
     
 }
 
